@@ -1,7 +1,7 @@
 /*!
  * @name 聚合API接口 (by lerd)
  * @description 理论可听全平台无损
- * @version v2.0.0.1
+ * @version v2.0.0
  * @author lerd
  */
 var _0xod2 = 'jsjiami.com.v7';
